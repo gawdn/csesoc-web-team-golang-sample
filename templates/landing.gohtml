@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="/static/css/styles.css">
+</head>
+
+<body>
+    <h1>ALMANAC</h1>
+    <ul>
+        {{range .}}
+            <li class="post">{{.Title}}</li>
+        {{end}}
+    </ul>
+</body>
+
+</html>
