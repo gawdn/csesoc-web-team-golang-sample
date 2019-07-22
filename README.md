@@ -1,11 +1,10 @@
-# CSESoc Web Team Almanac
+# CSESoc Web Team Golang Sample
 
 by [`@gawdn`](https://github.com/gawdn)
 
 ## Purpose
 
-This site serves an opinionated and open source of truth for standard operating procedures for the CSESoc website team.
-While some practices can be extended to other projects, this is primarily a supplementary resource for the [CSESoc Website](https://github.com/csesoc/csesoc.unsw.edu.au).
+This site is a sample of how to produce a simple Go server.
 
 ## Contributing
 
